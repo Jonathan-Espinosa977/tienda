@@ -66,7 +66,7 @@ Eliminar un producto (DELETE /api/productos/{id})
 
 ## Ejecutar el Frontend
 
-Descomprime el archivo ZIP descargado y navega hasta la carpeta frontend/. Navega a la carpeta frontend/ desde tu terminal.
+Descomprime el archivo ZIP descargado y navega a TiendaApp.
 Instala las dependencias de Node.js utilizando los siguientes comandos:
 
 *npm install bootstrap jquery @popperjs/core*
